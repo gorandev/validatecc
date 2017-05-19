@@ -1,0 +1,2 @@
+class ValidatorController < ApplicationController
+end
